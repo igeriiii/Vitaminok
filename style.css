@@ -1,0 +1,29 @@
+body{
+    background-image: url(Telegram.jpg);
+    margin: 35px;
+}
+
+h1{
+    font-size: 60px;
+    text-align: center;
+}
+
+h2{
+    font-size: 40px;
+    text-decoration: none;
+    font-weight: normal;
+}
+
+div{
+    font-size: 25px;
+}
+
+img{
+    float: right;
+    height: 315px;
+    width: 560px;
+}
+
+b{
+    font-size: 65px;
+}
